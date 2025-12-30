@@ -9,7 +9,7 @@ As of 2025-12-30, this list has:
 - **4 imaging and tomography libraries** for 2D and 3D microstructural data
 - **6 safety and thermal runaway entries** including 2 databases
 - **19 battery modeling codebases** for simulating battery electrical, thermal, and aging behavior from electrode-scale to macro-scale
-- **14 battery data analysis codebases** for processing, plotting, model fitting, and machine-learing feature extraction of raw battery test data
+- **14 battery data analysis codebases** for processing, plotting, model fitting, and machine-learning feature extraction of raw battery test data
 - Links to various other repositories, databases, publications, and collection of open-source battery data, models, or code
 
 Collated by Paul Gasper in 2025 as part of the Volta Foundation 2025 Battery Report. Please contribute! To add information, please edit this README and push your changes, and make a pull request to notify me.
