@@ -4,11 +4,11 @@
 An awesome list of open-source battery data (electrochemical, safety, and microstructural), data analysis tools, modeling code, microstructure analysis, and data repositories and review papers. This aims to be a one-stop shop for the open-source battery data, modeling, and analysis ecosystem! 
 These resources are also published on a [Google doc](https://docs.google.com/spreadsheets/d/1-mS3OJeEq_oGGUAXK3_mNSf_OXbBOHw5tmQacO-acyM/edit?usp=sharing). 
 
-As of 2025-12-31, this list has:
-- **Battery data from 7040 distinct battery cells** from all types, formats, applications, and types of data a nerd could dream of
-- **4 imaging and tomography libraries** for 2D and 3D microstructural data
+As of 2026-02-02, this list has:
+- **Battery data from 7581 distinct battery cells** from all types, formats, applications, and types of data a nerd could dream of
+- **5 imaging, tomography, and manufacturing libraries/data sets** for 2D and 3D microstructural data
 - **7 safety and thermal runaway entries** including 2 databases
-- **21 battery modeling codebases** for simulating battery electrical, thermal, and aging behavior from electrode-scale to macro-scale
+- **23 battery modeling codebases** for simulating battery electrical, thermal, and aging behavior from electrode-scale to macro-scale
 - **23 battery data analysis and hardware interfacing codebases** for processing, plotting, model fitting, and machine-learning feature extraction of raw battery test data
 - Links to various other repositories, databases, publications, and collection of open-source battery data, models, or code
 
