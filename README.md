@@ -1,8 +1,10 @@
 ![logo](awesome-battery-data.png)
 
 # awesome-battery-data
+**(2026/11/02) For a searchable, persistently supported, and altogether more comprehensive listing of open-source battery test data and modeling tools, see the [Battery Data Commons](https://batterydatacommons.org/)!** For instance, there are over 100 more data sets listed there. I will continue to update my [Google doc](https://docs.google.com/spreadsheets/d/1-mS3OJeEq_oGGUAXK3_mNSf_OXbBOHw5tmQacO-acyM/edit?usp=sharing) as it is something I use personally, but the Battery Data Commons is simply a better resource for users, whether that be people or AI agents. For an overview of the Battery Data Commons resources (as of 2026/8/17, and already out of date!), see our publication in Joule: [M. Hassini, P. Dechent, S. Luciani, S. Liu, S. Clark, P. Gasper, G. dos Reis, 'The Battery Data Commons registry', _Joule_ (2026) 102712](https://doi.org/10.1016/j.joule.2026.102712).
+
+
 An awesome list of open-source battery data (electrochemical, safety, and microstructural), data analysis tools, modeling code, microstructure analysis, and data repositories and review papers. This aims to be a one-stop shop for the open-source battery data, modeling, and analysis ecosystem! 
-These resources are also published on a [Google doc](https://docs.google.com/spreadsheets/d/1-mS3OJeEq_oGGUAXK3_mNSf_OXbBOHw5tmQacO-acyM/edit?usp=sharing). 
 
 As of 2026-02-02, this list has:
 - **Battery data from 7581 distinct battery cells** from all types, formats, applications, and types of data a nerd could dream of
