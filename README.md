@@ -137,6 +137,7 @@ Started by Paul Gasper in 2025 as part of the Volta Foundation 2025 Battery Repo
 |                                                                   | https://www.sciencedirect.com/science/article/pii/S2352340919307334                                                                                | thermal runaway in air and oil                  |
 | Consumer Product Safety Commission Lithium-ion Safety Performance | https://www.cpsc.gov/s3fs-public/CPSC-Staff-Statement-on-e-Bike-Battery-Testing-and-Exponent-Report.pdf?VersionId=khAypmJ2ZlnKQMu914MOT9rSHuvPQ5I7 | CPSC report prepared by Exponent                |
 | BESS Failure Incident Database                                    | https://storagewiki.epri.com/index.php/BESS_Failure_Incident_Database                                                                              | Maintained by Electric Power Research Institute |
+| Energy Incident Register                                          | https://energyincidentregister.com/data/                                                                                                           | BESS and other energy-site fire/failure incidents; CSV/JSON; counts CC BY 4.0 |
 | Mechanically induced thermal runaway w/ cell data                 | https://www.sciencedirect.com/science/article/pii/S2352152X23001950                                                                                | SNL & ORNL, BatteryArchive                      |
 
 # Code
